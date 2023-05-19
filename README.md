@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishitha202
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning c. 
+- 👀 I’m interested in python,web .
+- 🌱 I’m currently learning c,html. 
 - 📫 How to reach me nishithakumarivenur@gmail.com
 
 <!---
