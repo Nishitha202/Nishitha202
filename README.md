@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nishitha202
-- 👀 I’m interested in python,web development .
+- 👀 I’m interested in python,frontend development .
 - 🌱 I’m currently learning c,html. 
 - 📫 How to reach me nishithakumarivenur@gmail.com
 
