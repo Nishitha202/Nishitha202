@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nishitha
 - 👀 I’m interested in python,frontend development .
-- 🌱 I’m currently learning c,html. 
+- 🌱 I’m currently learning c,Html. 
 - 📫 How to reach me nishithakumarivenur@gmail.com
 
 <!---
