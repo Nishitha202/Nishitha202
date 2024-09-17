@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Computer Science Engineer from India with a passion for exploring new technologies and tackling exciting projects.</h3>
 <img align="right" alt="coding" width="400" src="https://tse3.mm.bing.net/th?id=OIP.C-KMGT-_yzhdSNPkaI6sLQHaF7&pid=Api&P=0&h=180">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishitha202&label=Profile%20views&color=0e75b6&style=flat" alt="nishitha202" /> </p>
+
 
 - 🔭 I’m currently working on **Drug Discovery**
 
