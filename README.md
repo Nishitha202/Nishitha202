@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **Drug Discovery**
 
-- 🤝 I’m looking for help with **Python**
-
 - 💬 Ask me about **c,Html**
 
 - 📫 How to reach me **nishithakumarivenur@gmail.com**
